@@ -1,17 +1,17 @@
-#28092026
-#===================
-#For Frontend UI use for fresh-fruities component and branch will be : feature/db-changes-sep26 
+# 28092026
+# ===================
+# For Frontend UI use for fresh-fruities component and branch will be : feature/db-changes-sep26 
 
 
 # API's
-http://localhost:8080/api/products
-http://localhost:8080/api/categories
-http://localhost:8080/api/customers
-http://localhost:8080/api/suppliers
-http://localhost:8080/api/inventory
-http://localhost:8080/api/orders
-http://localhost:8080/api/sales
-http://localhost:8080/api/reports
+# http://localhost:8080/api/products
+# http://localhost:8080/api/categories
+# http://localhost:8080/api/customers
+# http://localhost:8080/api/suppliers
+#http://localhost:8080/api/inventory
+#  http://localhost:8080/api/orders
+# http://localhost:8080/api/sales
+# http://localhost:8080/api/reports
 
 | Module      | Endpoint                 | Methods                |
 | ----------- | ------------------------ | ---------------------- |
